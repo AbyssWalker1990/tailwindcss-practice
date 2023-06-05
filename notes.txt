@@ -1,0 +1,6 @@
+1. npx tailwindcss init
+2. Define where html files are and add to config in to 
+content.
+3. npx tailwindcss -i ./src/input.css -o ./build/css/style.css
+// show where css file must be compiled
+// Also we can apply --watch in the end
